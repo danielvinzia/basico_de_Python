@@ -1,0 +1,29 @@
+# COSAS QUE SE PUEDEN HACER CON CADENAS DE CARACTERES
+nombre = "Macarena"
+nombre
+'Macarena'
+nombre[0]
+'M'
+nombre[1]
+'a'
+nombre[0:4]
+'Maca'
+nombre[:4]
+'Maca'
+nombre[4:]
+'rena'
+nombre[1:6]
+'acare'
+nombre[1:6]
+'acare'
+nombre[1:6:2]
+'aae'
+nombre[0:7:3]
+'Man'
+nombre[1::4]
+'ae'
+nombre[::]
+'Macarena'
+nombre[::-1]
+'aneracaM'
+nombre[::-1]
